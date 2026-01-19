@@ -26,3 +26,15 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bewouss1)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<br/><br/>
+
+<hr/>
