@@ -3,6 +3,7 @@
 </h1>
 
 <h3 align="center">A computer science student from France</h3>
+
 ---
 
 ## <p align="center">🐍 My Contributions 🐍</p>
