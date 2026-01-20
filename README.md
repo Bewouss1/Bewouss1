@@ -22,19 +22,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-<div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" />
-  <span style="font-weight:bold; font-family:sans-serif;">C#</span>
-  <img src="https://skillicons.dev/icons?i=r" alt="R" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-</div><br>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,bash,lua,c,r,vscode" />
+<img src="https://cdn.simpleicons.org/csharp/239120" width="40" height="40" />
+
+</div>
 </div>
 
 <br/>
