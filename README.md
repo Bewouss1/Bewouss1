@@ -3,12 +3,6 @@
 </h1>
 
 <h3 align="center">A computer science student from France</h3>
-
-🔭 I’m currently working on  
-🌱 I’m currently learning  
-💬 Ask me about  
-⚡ Fun fact  
-
 ---
 
 ## <p align="center">🐍 My Contributions 🐍</p>
