@@ -19,38 +19,20 @@
 </p>
 
 ---
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,bash,lua,c,r,vscode" />
-<img src="https://cdn.simpleicons.org/csharp/239120" width="40" height="40" />
-
-</div>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,bash,lua,c,r,vscode" />
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 ## <p align="center">⚡ Stats ⚡</p>
 
 <p align="center">
-  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Bewouss1" />
   </a>
-
 </p>
