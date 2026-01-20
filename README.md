@@ -23,7 +23,7 @@
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,bash,lua,c,r,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,bash,lua,c,r,vscode,unity,cs" />
 </div>
 
 <br/>
