@@ -8,7 +8,7 @@
 
 ## <p align="center">🐍 My Contributions 🐍</p>
 
-
+![snake gif](https://github.com/Bewouss1/Bewouss1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
