@@ -8,7 +8,9 @@
 
 ## <p align="center">🐍 My Contributions 🐍</p>
 
-![snake gif](https://github.com/Bewouss1/Bewouss1/blob/output/github-contribution-grid-snake.svg)
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bewouss1/Bewouss1/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bewouss1/Bewouss1/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Bewouss1/Bewouss1/output/github-snake-light.svg">
 
 ---
 
