@@ -25,8 +25,7 @@
 
 ## <p align="center">⚡ Stats ⚡</p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bewouss1" />
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Bewouss1&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bewouss1&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bewouss1&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
