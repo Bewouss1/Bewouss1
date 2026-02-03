@@ -25,7 +25,6 @@
 
 ## <p align="center">⚡ Stats ⚡</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Bewouss1&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bewouss1&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bewouss1&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bewouss1)](https://github.com/anuraghazra/github-readme-stats)
+
 
