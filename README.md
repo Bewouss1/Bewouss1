@@ -25,7 +25,6 @@
 
 ## <p align="center">⚡ Stats ⚡</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bewouss1)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Bewouss1&show_icons=true&theme=dark"
