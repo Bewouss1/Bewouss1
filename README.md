@@ -17,8 +17,5 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,mysql,bash,java,lua,cs,c,r,unity,vscode,eclipse,kali,github" />
 </div>
 
-<br/>
-<hr/>
-
 
 
