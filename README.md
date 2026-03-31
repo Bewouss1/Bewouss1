@@ -15,7 +15,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,mysql,bash,java,lua,cs,c,r,unity,vscode,eclipse,kali,github" />
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bewouss)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
