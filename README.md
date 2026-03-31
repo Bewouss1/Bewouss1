@@ -11,8 +11,7 @@
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Bewouss/Bewouss/output/github-snake-light.svg">
   </picture>
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
-<br/>
+## <p align="center">⚒️ Languages, Frameworks & Tools ⚒️</p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,mysql,bash,java,lua,cs,c,r,unity,vscode,eclipse,kali,github" />
 </div>
