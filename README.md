@@ -4,15 +4,12 @@
 
 <h3 align="center">A computer science student from France</h3>
 
----
-
 ## <p align="center">🐍 My Contributions 🐍</p>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bewouss/Bewouss/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bewouss/Bewouss/output/github-snake-light.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Bewouss/Bewouss/output/github-snake-light.svg">
   </picture>
----
 
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
